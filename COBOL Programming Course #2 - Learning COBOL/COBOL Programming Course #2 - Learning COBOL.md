@@ -58,6 +58,39 @@ How pervasive is COBOL? Consider these mind-boggling facts:
 
 - 1,500,000,000 lines of new COBOL code are written each year.
 
+## How is COBOL being used today?
+
+COBOL is omnipresent, and it's highly likely that you've interacted with a COBOL application today. Let's take a look at some compelling statistics:
+
+- Approximately 95% of ATM transactions rely on COBOL code.
+- COBOL powers 80% of face-to-face transactions.
+- Each day, COBOL systems facilitate a staggering $3 trillion in commerce.
+
+To truly grasp the extent of COBOL's prevalence, consider these mind-boggling facts:
+
+- On a daily basis, there are 200 times more COBOL transactions executed than there are Google searches.
+- Presently, there are over 220 billion lines of actively running COBOL programs, accounting for roughly 80% of the world's actively utilized code.
+- Every year, approximately 1.5 billion lines of new COBOL code are written.
+
+### Highlights
+
+Highlights from the survey conducted by OMP CWG shed further light on the use of COBOL in today's era:
+
+1. **Over 250 billion lines of COBOL are currently in production worldwide**, marking a notable increase from previous estimates. This figure indicates that COBOL's relevance is not waning; in fact, it continues to play a vital role.
+
+   Industries with the greatest reliance on COBOL include Financial Services, Government, Software, Logistics, Retail, and Manufacturing, among others.
+![](Images/facts-cobol/fact_001.png)
+
+2. **The future of COBOL appears promising**. Despite skeptics, 58% of respondents anticipate that their COBOL applications will persist for at least the next five years. Financial services professionals, in particular, exhibit even greater optimism, with over 55% expecting COBOL to endure indefinitely.
+
+![](Images/facts-cobol/fact_002.png)
+
+3. **The challenge lies in the availability of COBOL skills**. Interestingly, COBOL was originally designed to be an accessible language that didn't necessitate advanced computing expertise. Nonetheless, organizations express concerns about the availability of skilled COBOL programmers. Although internal training programs can alleviate this issue, the overall worry underscores the enduring significance and investment in COBOL.
+
+   As depicted in the provided figure, various organizations, regardless of their size, express varying degrees of concern about COBOL staffing. Even among those at the extremes (fewer than 500 employees or more than 100,000), a significant portion harbor reservations, with no group entirely free from apprehension.
+   
+![](Images/facts-cobol/fact_003.png)
+
 ## Why should I care about COBOL?
 
 The COBOL programming language, COBOL compiler optimization, and COBOL run time performance have over 50 years of technology advancements that contribute to the foundation of the world's economy.  The core business logic of many large enterprises has decades of business improvement and tuning embedded in COBOL programs.
